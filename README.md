@@ -1,6 +1,6 @@
 # S3-with-route-53
 SITUATION: I need to run my static website with the DNS name and store it on S3 bucket in AWS console.
-
+![image](https://github.com/shaikshaz/S3-with-route-53/assets/154241222/342ac839-786e-4475-954b-bfbf9d9fdc7b)
 TASK: The static website hosted on s3 should be routed through route53 in the aws console and the website domain should route through amazon rout 53 for DNS management.
 
 ACTION: 
